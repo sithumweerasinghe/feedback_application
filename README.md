@@ -1,4 +1,4 @@
-#Feedback and Rating Application
+Feedback and Rating Application
 
 ## Overview
 
@@ -37,37 +37,5 @@ This project is a next-generation application designed to connect users with top
    
 6. **Receipt Delivery**:
    - After service completion, the receipt is sent to the user via a link.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd your-repo-name
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the application:
-   ```bash
-   npm start
-   ```
-
-## Contributing
-
-We welcome contributions from the community! To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Make your changes and commit them with descriptive messages.
-4. Push your changes to your forked repository.
-5. Create a pull request to the main repository.
-
-
-## Contact
 
 For questions, feedback, or suggestions, please contact us at [sithumweerasinghe3043@gmail.com].
